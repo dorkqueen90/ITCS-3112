@@ -1,0 +1,19 @@
+﻿  KdTree.cpp
+C:\Users\Amber\Desktop\bridges-cxx-windows-3.0.1\include\KdTreeElement.h(78,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Amber\Desktop\bridges-cxx-windows-3.0.1\include\KdTreeElement.h(75): message : while compiling class template member function 'bridges::datastructure::KdTreeElement<int,int>::KdTreeElement(const K &,int,int,const E &,const std::string &)'
+          with
+          [
+              K=int,
+              E=int
+          ]
+C:\Users\Amber\source\repos\KdTree\KdTree\KdTree.cpp(54): message : see reference to function template instantiation 'bridges::datastructure::KdTreeElement<int,int>::KdTreeElement(const K &,int,int,const E &,const std::string &)' being compiled
+          with
+          [
+              K=int,
+              E=int
+          ]
+C:\Users\Amber\source\repos\KdTree\KdTree\KdTree.cpp(15): message : see reference to class template instantiation 'bridges::datastructure::KdTreeElement<int,int>' being compiled
+G:\Program Files (x86)\Microsoft\VisualStudio\VC\Tools\MSVC\14.24.28314\include\chrono(632): message : see reference to class template instantiation 'std::chrono::duration<double,std::ratio<1,1>>' being compiled
+G:\Program Files (x86)\Microsoft\VisualStudio\VC\Tools\MSVC\14.24.28314\include\chrono(178): message : see reference to class template instantiation 'std::chrono::duration<__int64,std::nano>' being compiled
+G:\Program Files (x86)\Microsoft\VisualStudio\VC\Tools\MSVC\14.24.28314\include\chrono(610): message : see reference to class template instantiation 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::nanoseconds>' being compiled
+  KdTree.vcxproj -> C:\Users\Amber\source\repos\KdTree\x64\Debug\KdTree.exe
