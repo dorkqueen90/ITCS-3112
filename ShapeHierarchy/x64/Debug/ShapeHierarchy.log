@@ -1,0 +1,3 @@
+﻿  Ellipse.cpp
+C:\Users\Amber\source\repos\ShapeHierarchy\ShapeHierarchy\Ellipse.cpp(67,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ShapeHierarchy.vcxproj -> C:\Users\Amber\source\repos\ShapeHierarchy\x64\Debug\ShapeHierarchy.exe
