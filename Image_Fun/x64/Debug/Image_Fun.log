@@ -1,0 +1,17 @@
+﻿  Image.cpp
+C:\Users\Amber\Desktop\bridges-cxx-windows-3.0.1\include\ColorGrid.h(252,1): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Amber\source\repos\Image_Fun\Image_Fun\Image.cpp(78,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Amber\source\repos\Image_Fun\Image_Fun\Image.cpp(79,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Amber\source\repos\Image_Fun\Image_Fun\Image.cpp(92,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Amber\source\repos\Image_Fun\Image_Fun\Image.cpp(93,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Amber\source\repos\Image_Fun\Image_Fun\Image.cpp(98,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Amber\source\repos\Image_Fun\Image_Fun\Image.cpp(106,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Amber\source\repos\Image_Fun\Image_Fun\Image.cpp(107,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Amber\source\repos\Image_Fun\Image_Fun\Image.cpp(129,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Amber\source\repos\Image_Fun\Image_Fun\Image.cpp(130,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Amber\source\repos\Image_Fun\Image_Fun\Image.cpp(139,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Amber\source\repos\Image_Fun\Image_Fun\Image.cpp(140,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Amber\source\repos\Image_Fun\Image_Fun\Image.cpp(141,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Amber\source\repos\Image_Fun\Image_Fun\Image.cpp(150,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Amber\source\repos\Image_Fun\Image_Fun\Image.cpp(151,27): warning C4018: '<': signed/unsigned mismatch
+  Image_Fun.vcxproj -> C:\Users\Amber\source\repos\Image_Fun\x64\Debug\Image_Fun.exe
